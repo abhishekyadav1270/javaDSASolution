@@ -6,10 +6,10 @@ switch (day) {
         dayName = "Monday";
         break;
     case 2:
-        dayName = "Tuesday";
+            dayName = "Tuesday";
         break;
     case 3:
-        dayName = "Wednesday";
+        dayName =   "Wednesday";
         break;
     case 4:
         dayName = "Thursday";
